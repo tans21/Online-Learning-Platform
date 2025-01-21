@@ -2,7 +2,7 @@
 
 ### Navigate to the frontend folder:
 ```
-cd frontend
+cd front-end
 ```
 ### Install the required dependencies:
 ```
