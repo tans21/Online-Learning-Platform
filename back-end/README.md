@@ -1,13 +1,15 @@
 # Backend Setup
 ### Navigate to the backend folder:
-
-```bash
-cd backend
 ```
-
+cd back-end
+```
+### Open workbench and create a database:
+```
+create database StudyCourses;
+```
 ### Configure the database in application.properties located at src/main/resources:
 ```
-spring.datasource.url=jdbc:mysql://localhost:3306/online_learning
+spring.datasource.url=jdbc:mysql://localhost:3306/StudyCourses
 spring.datasource.username=<your-username>
 spring.datasource.password=<your-password>
 spring.jpa.hibernate.ddl-auto=update
