@@ -1,6 +1,6 @@
 # Online Learning System  
 
-An **Online Learning Platform** that provides users with the ability to enroll in courses, track progress, and give feedback. This project is built using **Spring Boot** for the backend and **React.js** for the frontend, with **MySQL** as the database.
+An **Online Learning Platform** that provides users with the ability to enroll in courses, upload courses and navigate to materials uploaded. This project is built using **Spring Boot** for the backend and **React.js** for the frontend, with **MySQL** as the database.
 
 ---
 
