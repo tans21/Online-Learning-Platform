@@ -12,9 +12,9 @@ spring.datasource.password=<your-password>
 spring.jpa.hibernate.ddl-auto=update
 
 ### Build and run the application:
-
+'''bash
 mvn clean install
 mvn spring-boot:run
 
-##The backend server will start on http://localhost:8080.
+## The backend server will start on http://localhost:8080.
 
