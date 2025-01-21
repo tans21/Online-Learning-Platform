@@ -1,9 +1,9 @@
 # Backend Setup
 ### Navigate to the backend folder:
 
-'''bash
+```bash
 cd backend
-'''
+
 ### Configure the database in application.properties located at src/main/resources:
 '''
 spring.datasource.url=jdbc:mysql://localhost:3306/online_learning
